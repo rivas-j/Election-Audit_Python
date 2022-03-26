@@ -1,11 +1,11 @@
 # Election Analysis
 
-## Overview of Election Audit: Explain the purpose of this election audit analysis.
+## Overview of Election Audit
 
-### It's Election season! The local election commission needs our help auditing the results in a quick, efficient manner. Our solution was to build PyPoll, a Python program that will automate the counting process of the audit. The program will certify the numbef of votes cast for each candidate, the winner, and voter turnout per county. We accomplished this by processing a CSV file containing the 369,000 votes with PyPoll, which in turn analyzed the votes and generated a handy text file summarizing the results.
+### It's Election season! The local election commission needs our help auditing the results in a quick, efficient manner. Our solution is PyPoll, a Python program that automates the counting process of the audit. This program certifies the numbef of votes cast for each candidate, the winning candidate, and voter turnout per county. We're achieving this with PyPoll by processing a CSV file containing the 369,000 votes, analyzing the votes and generating a handy text file summarizing the results.
 
 
-## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+## Election-Audit Results
 
 - PyPoll determined that there were 369,711 total votes cast in this congressional election. We utilized the following for loop to tally the total vote count:
 ```
