@@ -14,9 +14,12 @@
         total_votes = total_votes + 1
 ```
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+![County Summary](https://github.com/rivas-j/election_analysis/blob/9ae7d85de56693a115af3cb4209bd23b02d6cc5b/Resources/County_Summary.png)
 - Which county had the largest number of votes?
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+![Election Results](https://github.com/rivas-j/election_analysis/blob/9ae7d85de56693a115af3cb4209bd23b02d6cc5b/Resources/Election_Results.png)
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+![Election Winner](https://github.com/rivas-j/election_analysis/blob/9ae7d85de56693a115af3cb4209bd23b02d6cc5b/Resources/Election_Winner.png)
 
 ## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
