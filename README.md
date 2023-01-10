@@ -20,7 +20,7 @@ It's Election season! The local election commission needs our help auditing the 
 # <div align="center">Dataset</div>
 This dataset contains all 369,712 ballots cast in a local county election.
 
-- [Election Results](data/election_results.csv): CSV File containing data for 369,712 votes, downloaded from an Amazon S3 server.
+- [Election Results:](data/election_results.csv) CSV File containing data for 369,712 votes, downloaded from an Amazon S3 server.
 
 # <div align="center">Tools Used</div>
 - **Python:** Programming language used to build app to automate election audit
