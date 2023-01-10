@@ -5,7 +5,7 @@
 ## <div align="center">Python app designed to audit county election results</div>
 
 <p align="center">
-<a href="#goal">GoalS</a> &nbsp;&bull;&nbsp;
+<a href="#goals">Goals</a> &nbsp;&bull;&nbsp;
 <a href="#dataset">Dataset</a> &nbsp;&bull;&nbsp;
 <a href="#tools-used">Tools Used</a> &nbsp;&bull;&nbsp;
 <a href="#analysis-and-challenges">Analysis and Challenges</a> &nbsp;&bull;&nbsp;
@@ -13,7 +13,7 @@
 <a href="#summary">Summary</a>
 </p>
 
-# <div align="center">GoalS</div>
+# <div align="center">Goals</div>
 It's Election season! The local election commission needs our help auditing the results in a quick, efficient manner. Our solution is PyPoll, a Python program that automates the counting process of the audit. This program certifies the numbef of votes cast for each candidate, the winning candidate, and voter turnout per county. We're achieving this with PyPoll by processing a CSV file containing more than 369,000 rows of voting data, analyzing the votes, and generating a handy text file summarizing the results.
 
 
